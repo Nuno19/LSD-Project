@@ -1,0 +1,753 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Nuno\Desktop\Nova_pasta\simulation\qsim
+Ebindecoder
+Z1 w1433207224
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Nuno\Desktop\Nova_pasta\simulation\qsim
+Z5 8C:/Users/Nuno/Desktop/Nova_pasta/Bin7SegDecoder.vhd
+Z6 FC:/Users/Nuno/Desktop/Nova_pasta/Bin7SegDecoder.vhd
+l0
+L4
+VXVLU?_:CKWHT[QolB=^2d1
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1433295300.474000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Bin7SegDecoder.vhd|
+Z10 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Bin7SegDecoder.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 >3Aa]=Rz^_m0iHmUoYJGm3
+!i10b 1
+Abehavioral
+R2
+R3
+Z13 DEx4 work 10 bindecoder 0 22 XVLU?_:CKWHT[QolB=^2d1
+l13
+L12
+VHEZRUcOkEEJdjOm4@Z6Z<3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 ;De:LJo@PmHGA<CV8jN;61
+!i10b 1
+Eclkdividern
+Z14 w1432235976
+Z15 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R2
+R3
+R4
+Z16 8C:/Users/Nuno/Desktop/Nova_pasta/ClkDividerN.vhd
+Z17 FC:/Users/Nuno/Desktop/Nova_pasta/ClkDividerN.vhd
+l0
+L5
+V8C8GM?f1hm=gGgLcKeN[30
+R7
+31
+Z18 !s108 1433295298.816000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/ClkDividerN.vhd|
+Z20 !s107 C:/Users/Nuno/Desktop/Nova_pasta/ClkDividerN.vhd|
+R11
+R12
+!s100 HRgb>g;6fHDTP?ehR=HlC0
+!i10b 1
+Abehavioral
+R15
+R2
+R3
+Z21 DEx4 work 11 clkdividern 0 22 8C8GM?f1hm=gGgLcKeN[30
+l16
+L12
+VTBEf[A4LAAXYHHMbBWVVR0
+R7
+31
+R18
+R19
+R20
+R11
+R12
+!s100 iA5YG94bem4EOOD>A8<4i0
+!i10b 1
+Econversor
+Z22 w1432595909
+R15
+R2
+R3
+R4
+Z23 8C:/Users/Nuno/Desktop/Nova_pasta/Conversor.vhd
+Z24 FC:/Users/Nuno/Desktop/Nova_pasta/Conversor.vhd
+l0
+L5
+VJHCk9i;8RWl:;nDC;4LSM3
+R7
+31
+Z25 !s108 1433295297.396000
+Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Conversor.vhd|
+Z27 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Conversor.vhd|
+R11
+R12
+!s100 mYY1a<e<Tg;bfc8G??fUh3
+!i10b 1
+Abehavioral
+R15
+R2
+R3
+Z28 DEx4 work 9 conversor 0 22 JHCk9i;8RWl:;nDC;4LSM3
+l14
+L11
+ViE1^EiQiJEd6JXal22NH82
+R7
+31
+R25
+R26
+R27
+R11
+R12
+!s100 3me[KQlM9zm;<gW_=kMYn3
+!i10b 1
+Econversor6_4
+Z29 w1433292867
+R15
+R2
+R3
+R4
+Z30 8C:/Users/Nuno/Desktop/Nova_pasta/Conversor6-2x4.vhd
+Z31 FC:/Users/Nuno/Desktop/Nova_pasta/Conversor6-2x4.vhd
+l0
+L4
+Vd>iNIQWJLMYH:nL5960UV0
+R7
+31
+Z32 !s108 1433295296.052000
+Z33 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Conversor6-2x4.vhd|
+Z34 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Conversor6-2x4.vhd|
+R11
+R12
+!s100 IbLnb]LYW?ZKf6CNfLQ=R2
+!i10b 1
+Abehavioral
+R15
+R2
+R3
+Z35 DEx4 work 12 conversor6_4 0 22 d>iNIQWJLMYH:nL5960UV0
+l13
+L10
+VW51T8Gf9?33?YjD7gNIAT2
+R7
+31
+R32
+R33
+R34
+R11
+R12
+!s100 G3noW^YmeZPg]k]A`I^Lh0
+!i10b 1
+Ecounter0_6
+Z36 w1433293253
+R15
+R2
+R3
+R4
+Z37 8C:/Users/Nuno/Desktop/Nova_pasta/Counter0_6.vhd
+Z38 FC:/Users/Nuno/Desktop/Nova_pasta/Counter0_6.vhd
+l0
+L5
+VF_88SKHJ>zPP?dIf`7E_T1
+R7
+31
+Z39 !s108 1433295294.690000
+Z40 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Counter0_6.vhd|
+Z41 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Counter0_6.vhd|
+R11
+R12
+!s100 C>4zkBhdco@VaBKDacm291
+!i10b 1
+Abehavioral
+R15
+R2
+R3
+Z42 DEx4 work 10 counter0_6 0 22 F_88SKHJ>zPP?dIf`7E_T1
+l14
+L12
+VX:CJFnY^P?o=Sif3WVd8;3
+R7
+31
+R39
+R40
+R41
+R11
+R12
+!s100 UeE?Ub`PB0lHo_13B2:bL3
+!i10b 1
+Edebounce
+Z43 w1432235665
+R2
+R3
+R4
+Z44 8C:/Users/Nuno/Desktop/Nova_pasta/Debounce.vhd
+Z45 FC:/Users/Nuno/Desktop/Nova_pasta/Debounce.vhd
+l0
+L4
+VTAQzm8>AmSBE>Qa^Z<DjR1
+R7
+31
+Z46 !s108 1433295293.212000
+Z47 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Debounce.vhd|
+Z48 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Debounce.vhd|
+R11
+R12
+!s100 <63hii;VA7KHKk:k<N_R;2
+!i10b 1
+Astructural
+Z49 DEx4 work 9 flipflopd 0 22 ej;NQchJR<g?fc>D=C7BD1
+R2
+R3
+Z50 DEx4 work 8 debounce 0 22 TAQzm8>AmSBE>Qa^Z<DjR1
+l12
+L10
+Vcf0SfDmQnG]W??Z]B>nMA2
+R7
+31
+R46
+R47
+R48
+R11
+R12
+!s100 W3IbNVfd@1[cIP[^e[RF<1
+!i10b 1
+Edemootb
+Z51 w1433295224
+R2
+R3
+R4
+Z52 8C:/Users/Nuno/Desktop/Nova_pasta/demooTB.vhd
+Z53 FC:/Users/Nuno/Desktop/Nova_pasta/demooTB.vhd
+l0
+L4
+V:G@jDCaFH2ZPHgQhXK[A]0
+!s100 Rm@dCG`]GRb`zEdfSQ6WW0
+R7
+32
+!i10b 1
+Z54 !s108 1433295315.358000
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/demooTB.vhd|
+Z56 !s107 C:/Users/Nuno/Desktop/Nova_pasta/demooTB.vhd|
+Z57 o-work work -O0
+R12
+Astimulus
+R15
+Z58 DEx4 work 9 proj_demo 0 22 fKmdg1P51nbf365a2zO]O3
+R2
+R3
+DEx4 work 7 demootb 0 22 :G@jDCaFH2ZPHgQhXK[A]0
+l13
+L7
+VJCMfodBP_VKz;<L??>1PV3
+!s100 kg]GV>C^Ra<4_n[=F9ocT1
+R7
+32
+!i10b 1
+R54
+R55
+R56
+R57
+R12
+Eestrelas
+Z59 w1432808801
+R15
+R2
+R3
+R4
+Z60 8C:/Users/Nuno/Desktop/Nova_pasta/Estrelas.vhd
+Z61 FC:/Users/Nuno/Desktop/Nova_pasta/Estrelas.vhd
+l0
+L5
+VWM9;[jSRjWdT>fkB492o?3
+R7
+31
+Z62 !s108 1433295282.112000
+Z63 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Estrelas.vhd|
+Z64 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Estrelas.vhd|
+R11
+R12
+!s100 ]zafa^G_d`LiMN`;oL>1i0
+!i10b 1
+Abehavioral
+R15
+R2
+R3
+Z65 DEx4 work 8 estrelas 0 22 WM9;[jSRjWdT>fkB492o?3
+l17
+L13
+V8MLdhm7Y_a<JKoZOImd[]3
+R7
+31
+R62
+R63
+R64
+R11
+R12
+!s100 Pn]`0i``m1@AaR_<H3Sj@3
+!i10b 1
+Eeven_sort
+Z66 w1432329261
+R15
+R2
+R3
+R4
+Z67 8C:/Users/Nuno/Desktop/Nova_pasta/Even_Sort.vhd
+Z68 FC:/Users/Nuno/Desktop/Nova_pasta/Even_Sort.vhd
+l0
+L5
+VcFLR4<1hT5=G`YG6[oNn;2
+R7
+31
+Z69 !s108 1433295290.556000
+Z70 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Even_Sort.vhd|
+Z71 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Even_Sort.vhd|
+R11
+R12
+!s100 mf^jFV<6m3A92Wc79iSaT3
+!i10b 1
+Abehavioral
+Z72 DEx4 work 9 ordenar_2 0 22 @2g7bjz>JNn@:32gZPILQ1
+R15
+R2
+R3
+Z73 DEx4 work 9 even_sort 0 22 cFLR4<1hT5=G`YG6[oNn;2
+l20
+L19
+Vd?gKPd_2IXJQM7m<Vka8X1
+R7
+31
+R69
+R70
+R71
+R11
+R12
+!s100 JZO1BHn4ghPN[5[Rm<0j[2
+!i10b 1
+Eflipflopd
+Z74 w1432236214
+R2
+R3
+R4
+Z75 8C:/Users/Nuno/Desktop/Nova_pasta/FlipFlopD.vhd
+Z76 FC:/Users/Nuno/Desktop/Nova_pasta/FlipFlopD.vhd
+l0
+L3
+Vej;NQchJR<g?fc>D=C7BD1
+R7
+31
+Z77 !s108 1433295291.907000
+Z78 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/FlipFlopD.vhd|
+Z79 !s107 C:/Users/Nuno/Desktop/Nova_pasta/FlipFlopD.vhd|
+R11
+R12
+!s100 F>QEcH[FYD1<SIVzUez_n2
+!i10b 1
+Abehavioral
+R2
+R3
+R49
+l11
+L10
+VMcQLOhO:R9d4d^DYo0z=a1
+R7
+31
+R77
+R78
+R79
+R11
+R12
+!s100 <:EPbCX`PoQWPjnbK>D^I2
+!i10b 1
+Emux8_1
+Z80 w1432595302
+R2
+R3
+R4
+Z81 8C:/Users/Nuno/Desktop/Nova_pasta/Mux8_1.vhd
+Z82 FC:/Users/Nuno/Desktop/Nova_pasta/Mux8_1.vhd
+l0
+L3
+V5fcEaL[6C]9Ih20WCk5RX1
+R7
+31
+Z83 !s108 1433295283.378000
+Z84 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Mux8_1.vhd|
+Z85 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Mux8_1.vhd|
+R11
+R12
+!s100 gT1LcFmmgZk>]i?Rc54g01
+!i10b 1
+Abehavioral
+R2
+R3
+Z86 DEx4 work 6 mux8_1 0 22 5fcEaL[6C]9Ih20WCk5RX1
+l16
+L15
+Vf9aL?L0JQ_DkNfR<M<UXm3
+R7
+31
+R83
+R84
+R85
+R11
+R12
+!s100 z]ioge^HCPH]J9nmcKQFW0
+!i10b 1
+Enewsort
+Z87 w1433288798
+R15
+R2
+R3
+R4
+Z88 8C:/Users/Nuno/Desktop/Nova_pasta/New_Sort.vhd
+Z89 FC:/Users/Nuno/Desktop/Nova_pasta/New_Sort.vhd
+l0
+L5
+VDSHz7XioZ0;9_XJWJBBdz0
+R7
+31
+Z90 !s108 1433295288.988000
+Z91 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/New_Sort.vhd|
+Z92 !s107 C:/Users/Nuno/Desktop/Nova_pasta/New_Sort.vhd|
+R11
+R12
+!s100 6A[M<^QJ=cM9hSX5dK<m90
+!i10b 1
+Abehavioral
+R15
+R2
+R3
+Z93 DEx4 work 7 newsort 0 22 DSHz7XioZ0;9_XJWJBBdz0
+l25
+L24
+VEff1VIYIo;YW`zgMUZ6LM0
+R7
+31
+R90
+R91
+R92
+R11
+R12
+!s100 j8UAGf8LnWfA:BfTQd8J23
+!i10b 1
+Enumeros
+Z94 w1433208266
+R15
+R2
+R3
+R4
+Z95 8C:/Users/Nuno/Desktop/Nova_pasta/Numeros.vhd
+Z96 FC:/Users/Nuno/Desktop/Nova_pasta/Numeros.vhd
+l0
+L5
+VJ;n1ViDMX;@5BeU9e499C2
+R7
+31
+Z97 !s108 1433295281.037000
+Z98 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Numeros.vhd|
+Z99 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Numeros.vhd|
+R11
+R12
+!s100 Q^zPHgS[A5NWT2A1Oj?S[0
+!i10b 1
+Abehavioral
+R15
+R2
+R3
+Z100 DEx4 work 7 numeros 0 22 J;n1ViDMX;@5BeU9e499C2
+l16
+L13
+Vn2SOXT5hZK:gDk=;g]mPP3
+R7
+31
+R97
+R98
+R99
+R11
+R12
+!s100 ;clih28<E7^I@Qb3@zMlG2
+!i10b 1
+Eodd_sort
+Z101 w1432329262
+R15
+R2
+R3
+R4
+Z102 8C:/Users/Nuno/Desktop/Nova_pasta/Odd_Sort.vhd
+Z103 FC:/Users/Nuno/Desktop/Nova_pasta/Odd_Sort.vhd
+l0
+L5
+VA?5G=>EI8Z>@GKl7eCgH62
+R7
+31
+Z104 !s108 1433295287.386000
+Z105 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Odd_Sort.vhd|
+Z106 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Odd_Sort.vhd|
+R11
+R12
+!s100 1jfSXMS_GmI6bJ]0AJDN;3
+!i10b 1
+Abehavioral
+R72
+R15
+R2
+R3
+Z107 DEx4 work 8 odd_sort 0 22 A?5G=>EI8Z>@GKl7eCgH62
+l20
+L19
+V@So1XQJofP?S43;Bb0YWa0
+R7
+31
+R104
+R105
+R106
+R11
+R12
+!s100 DaQ5J5cDM8Nd=3Y;9;TeV2
+!i10b 1
+Eordenar5
+Z108 w1433288925
+R15
+R2
+R3
+R4
+Z109 8C:/Users/Nuno/Desktop/Nova_pasta/Ordenar_5.vhd
+Z110 FC:/Users/Nuno/Desktop/Nova_pasta/Ordenar_5.vhd
+l0
+L5
+VB2Q<0<3[j8B<;ggMazd7:0
+R7
+31
+Z111 !s108 1433295301.734000
+Z112 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Ordenar_5.vhd|
+Z113 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Ordenar_5.vhd|
+R11
+R12
+!s100 U`jk]VjP]Z_O]Mhf;Ll9O2
+!i10b 1
+Astructural
+Z114 DEx4 work 9 sort_done 0 22 2iJbfO>>_D:6n]OoV]1C@1
+R107
+R73
+R93
+R15
+R2
+R3
+Z115 DEx4 work 8 ordenar5 0 22 B2Q<0<3[j8B<;ggMazd7:0
+l39
+L21
+VfaV0DX?6bziiGXB=g?c8G3
+R7
+31
+R111
+R112
+R113
+R11
+R12
+!s100 j<7Rf@3iPjbWOnUT^KL[40
+!i10b 1
+Eordenar_2
+Z116 w1432329264
+R15
+R2
+R3
+R4
+Z117 8C:/Users/Nuno/Desktop/Nova_pasta/Ordenar_2.vhd
+Z118 FC:/Users/Nuno/Desktop/Nova_pasta/Ordenar_2.vhd
+l0
+L5
+V@2g7bjz>JNn@:32gZPILQ1
+R7
+31
+Z119 !s108 1433295284.480000
+Z120 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Ordenar_2.vhd|
+Z121 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Ordenar_2.vhd|
+R11
+R12
+!s100 [6oO<XG5G=W@gX6K?<Xih2
+!i10b 1
+Acombinatorial
+R15
+R2
+R3
+R72
+l14
+L13
+VAiIU3KQ83:4el;LINVc2f0
+R7
+31
+R119
+R120
+R121
+R11
+R12
+!s100 ^iXEfg5gEEca:faKgA^JL3
+!i10b 1
+Eproj_demo
+Z122 w1433295030
+R15
+R2
+R3
+R4
+Z123 8C:/Users/Nuno/Desktop/Nova_pasta/Proj_demo.vhd
+Z124 FC:/Users/Nuno/Desktop/Nova_pasta/Proj_demo.vhd
+l0
+L5
+VfKmdg1P51nbf365a2zO]O3
+R7
+31
+Z125 !s108 1433295303.027000
+Z126 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Proj_demo.vhd|
+Z127 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Proj_demo.vhd|
+R11
+R12
+!s100 ?ddZ[>;47C@3]aNK@8RW<2
+!i10b 1
+Ashell
+R13
+R28
+R35
+R86
+R42
+R72
+R115
+R65
+R100
+Z128 DEx4 work 23 pseudo_random_generator 0 22 aG<_:RnRZ3Ji3IA5:jko;0
+Z129 DEx4 work 12 statemachine 0 22 jjGe`d2cCjmX6Nc7QEIJM1
+R50
+R21
+R15
+R2
+R3
+R58
+l23
+L14
+Vok:>SCQ?eThd_gHn:Mg<Q3
+R7
+31
+R125
+R126
+R127
+R11
+R12
+!s100 g6<>6G9gKnNki[9ggI57M1
+!i10b 1
+Epseudo_random_generator
+Z130 w1430404643
+R2
+R3
+R4
+Z131 8C:/Users/Nuno/Desktop/Nova_pasta/pseudo_random_generator.vhd
+Z132 FC:/Users/Nuno/Desktop/Nova_pasta/pseudo_random_generator.vhd
+l0
+L14
+VaG<_:RnRZ3Ji3IA5:jko;0
+R7
+31
+Z133 !s108 1433295279.904000
+Z134 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/pseudo_random_generator.vhd|
+Z135 !s107 C:/Users/Nuno/Desktop/Nova_pasta/pseudo_random_generator.vhd|
+R11
+R12
+!s100 ;0XV@PVhz8JoXD@PIZ`oe1
+!i10b 1
+Av1
+R2
+R3
+R128
+l31
+L27
+VDToEk0GQ[zD3mKJ<Za0mH1
+R7
+31
+R133
+R134
+R135
+R11
+R12
+!s100 QVd^cEg6>=d1NW_g=GZ^83
+!i10b 1
+Esort_done
+Z136 w1432329265
+R15
+R2
+R3
+R4
+Z137 8C:/Users/Nuno/Desktop/Nova_pasta/Sort_Done.vhd
+Z138 FC:/Users/Nuno/Desktop/Nova_pasta/Sort_Done.vhd
+l0
+L5
+V2iJbfO>>_D:6n]OoV]1C@1
+R7
+31
+Z139 !s108 1433295285.842000
+Z140 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/Sort_Done.vhd|
+Z141 !s107 C:/Users/Nuno/Desktop/Nova_pasta/Sort_Done.vhd|
+R11
+R12
+!s100 >[Xzh17<=fhiQImeIK_M`0
+!i10b 1
+Abehavioral
+R15
+R2
+R3
+R114
+l15
+L14
+VQX^MKl@5j:Z938kj^I5Qb1
+R7
+31
+R139
+R140
+R141
+R11
+R12
+!s100 fSRS_zA2e4>lnGX>MO3`03
+!i10b 1
+Estatemachine
+Z142 w1432812858
+R2
+R3
+R4
+Z143 8C:/Users/Nuno/Desktop/Nova_pasta/StateMachine.vhd
+Z144 FC:/Users/Nuno/Desktop/Nova_pasta/StateMachine.vhd
+l0
+L4
+VjjGe`d2cCjmX6Nc7QEIJM1
+R7
+31
+Z145 !s108 1433295278.923000
+Z146 !s90 -reportprogress|300|-93|-work|work|C:/Users/Nuno/Desktop/Nova_pasta/StateMachine.vhd|
+Z147 !s107 C:/Users/Nuno/Desktop/Nova_pasta/StateMachine.vhd|
+R11
+R12
+!s100 >?B:l34N;=[d;m9McLRUn1
+!i10b 1
+Abehavioral
+R2
+R3
+R129
+l21
+L16
+V44:dQYgZ@M_SoTQg];6Vf3
+R7
+31
+R145
+R146
+R147
+R11
+R12
+!s100 8>o0T[_AbFi3_YfZ>CL573
+!i10b 1

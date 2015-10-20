@@ -1,0 +1,268 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do demo_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/StateMachine.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity StateMachine
+# -- Compiling architecture Behavioral of StateMachine
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/pseudo_random_generator.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity pseudo_random_generator
+# -- Compiling architecture v1 of pseudo_random_generator
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Numeros.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Numeros
+# -- Compiling architecture Behavioral of Numeros
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Estrelas.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Estrelas
+# -- Compiling architecture Behavioral of Estrelas
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Mux8_1.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux8_1
+# -- Compiling architecture Behavioral of Mux8_1
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Ordenar_2.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Ordenar_2
+# -- Compiling architecture combinatorial of Ordenar_2
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Sort_Done.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Sort_Done
+# -- Compiling architecture Behavioral of Sort_Done
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Odd_Sort.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Odd_Sort
+# -- Compiling architecture Behavioral of Odd_Sort
+# -- Loading entity Ordenar_2
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/New_Sort.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity NewSort
+# -- Compiling architecture Behavioral of NewSort
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Even_Sort.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Even_Sort
+# -- Compiling architecture Behavioral of Even_Sort
+# -- Loading entity Ordenar_2
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/FlipFlopD.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FlipFlopD
+# -- Compiling architecture Behavioral of FlipFlopD
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Debounce.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Debounce
+# -- Compiling architecture Structural of Debounce
+# -- Loading entity FlipFlopD
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Counter0_6.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Counter0_6
+# -- Compiling architecture Behavioral of Counter0_6
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Conversor6-2x4.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Conversor6_4
+# -- Compiling architecture Behavioral of Conversor6_4
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Conversor.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Conversor
+# -- Compiling architecture Behavioral of Conversor
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/ClkDividerN.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ClkDividerN
+# -- Compiling architecture Behavioral of ClkDividerN
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Bin7SegDecoder.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity BinDecoder
+# -- Compiling architecture Behavioral of BinDecoder
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Ordenar_5.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Ordenar5
+# -- Compiling architecture Structural of Ordenar5
+# -- Loading entity NewSort
+# -- Loading entity Even_Sort
+# -- Loading entity Odd_Sort
+# -- Loading entity Sort_Done
+# vcom -93 -work work {C:/Users/Nuno/Desktop/Nova_pasta/Proj_demo.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Proj_demo
+# -- Compiling architecture Shell of Proj_demo
+# -- Loading entity ClkDividerN
+# -- Loading entity Debounce
+# -- Loading entity StateMachine
+# -- Loading entity pseudo_random_generator
+# -- Loading entity Numeros
+# -- Loading entity Estrelas
+# -- Loading entity Ordenar5
+# -- Loading entity Ordenar_2
+# -- Loading entity Counter0_6
+# -- Loading entity Mux8_1
+# -- Loading entity Conversor6_4
+# -- Loading entity Conversor
+# -- Loading entity BinDecoder
+# 
+vcom -reportprogress 300 -work work C:/Users/Nuno/Desktop/Nova_pasta/demooTB.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity demooTB
+# -- Compiling architecture Stimulus of demooTB
+# -- Loading package NUMERIC_STD
+# -- Loading entity Proj_demo
+vsim work.demootb(stimulus)
+# vsim work.demootb(stimulus) 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.demootb(stimulus)
+# Loading work.proj_demo(shell)
+# Loading work.clkdividern(behavioral)
+# Loading work.debounce(structural)
+# Loading work.flipflopd(behavioral)
+# Loading work.statemachine(behavioral)
+# Loading work.pseudo_random_generator(v1)
+# Loading work.numeros(behavioral)
+# Loading work.estrelas(behavioral)
+# Loading work.ordenar5(structural)
+# Loading work.newsort(behavioral)
+# Loading work.even_sort(behavioral)
+# Loading work.ordenar_2(combinatorial)
+# Loading work.odd_sort(behavioral)
+# Loading work.sort_done(behavioral)
+# Loading work.counter0_6(behavioral)
+# Loading work.mux8_1(behavioral)
+# Loading work.conversor6_4(behavioral)
+# Loading work.conversor(behavioral)
+# Loading work.bindecoder(behavioral)
+add wave -position end  sim:/demootb/s_clk
+add wave -position end  sim:/demootb/s_key1
+add wave -position end  sim:/demootb/s_key0
+add wave -position end  sim:/demootb/s_HEX7
+add wave -position end  sim:/demootb/s_HEX6
+add wave -position end  sim:/demootb/s_HEX5
+add wave -position end  sim:/demootb/s_HEX4
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Break key hit 
+# Break in Architecture v1 at C:/Users/Nuno/Desktop/Nova_pasta/pseudo_random_generator.vhd line 109

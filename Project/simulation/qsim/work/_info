@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Nuno\Desktop\Nova_pasta\simulation\qsim
+vProj_demo
+Z1 IT>U:6[_zoSJXo2>mVgOco2
+Z2 Vd2]YdfUB3^G1eQ_J45]D?3
+Z3 dC:\Users\Nuno\Desktop\Nova_pasta\simulation\qsim
+Z4 w1433294094
+Z5 8demo.vo
+Z6 Fdemo.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@proj_demo
+!i10b 1
+Z10 !s100 hUUO6XNJ?1kE=cC;6<SSX2
+!s85 0
+Z11 !s108 1433294102.988000
+Z12 !s107 demo.vo|
+Z13 !s90 -work|work|demo.vo|
+!s101 -O0
+vProj_demo_vlg_check_tst
+!i10b 1
+!s100 >f4iTLl8ddHQ@@Rm_P=K_3
+I7ZGFf7CT_Q>GTZz<UEJg50
+VkTJbI3FN43?MUSeT]o8l32
+R3
+Z14 w1433294088
+Z15 8Waveform.vwf.vt
+Z16 FWaveform.vwf.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z17 !s108 1433294105.080000
+Z18 !s107 Waveform.vwf.vt|
+Z19 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R8
+n@proj_demo_vlg_check_tst
+vProj_demo_vlg_sample_tst
+!i10b 1
+!s100 7iTdSKgYhCSjC76N<Wdad0
+IQ[2d:^nHHe58jINlc>FUj0
+VI>g^=3S>0:=<9Cg;@a>KK2
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@proj_demo_vlg_sample_tst
+vProj_demo_vlg_vec_tst
+!i10b 1
+!s100 oN]Eb0Z:HV:=XEhIWJ=Ve2
+IJ[PeAEBCUBI:[1MRiQ7VY2
+VnIB4J=E3dZ<Dgi645h`GR0
+R3
+R14
+R15
+R16
+L0 663
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@proj_demo_vlg_vec_tst
